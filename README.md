@@ -1,18 +1,22 @@
-# real-vue-project
+# Search-Of-Jongno-Food
+종로구 맛집 찾는 웹페이지
 
-> A Vue.js project
+##주요기능
+- 지도에서 위치 띄우기
+- 원하는 메뉴정하기
+- 요일별 추천메뉴 (배너)
+- 자유게시판
 
-## Build Setup
 
-``` bash
-# install dependencies
-npm install
+##개발환경
+-Vue.js
+-github
+-kakaoMap
+-photoshop
 
-# serve with hot reload at localhost:8080
-npm run dev
+##개발도구
+-eclipse
 
-# build for production with minification
-npm run build
-```
-
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+##사용기술
+-JAVA
+-javascript
